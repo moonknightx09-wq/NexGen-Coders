@@ -1,0 +1,130 @@
+{
+    "quizzes": [
+        {
+            "quiz_id": "1",
+            "subject": "Programming language",
+            "topic": "python",
+            "questions": [
+                {
+                    "question": "What is the Python function used to get the type of a variable?",
+                    "options": [
+                        "type()",
+                        "typeof()",
+                        "get_type()",
+                        "identify_type()"
+                    ],
+                    "correct_answer": "type()",
+                    "explanation": "The type() function in Python returns the type of the variable passed to it."
+                },
+                {
+                    "question": "Which Python function is used to convert a list to a string?",
+                    "options": [
+                        "str()",
+                        "to_string()",
+                        "join()",
+                        "list_to_string()"
+                    ],
+                    "correct_answer": "join()",
+                    "explanation": "The join() function in Python concatenates all the items in a list into a single string."
+                },
+                {
+                    "question": "What is the purpose of the 'self' parameter in Python class methods?",
+                    "options": [
+                        "To access the global variables of the class",
+                        "To access the instance variables of the class",
+                        "To access the class variables of the class",
+                        "To call the parent class methods"
+                    ],
+                    "correct_answer": "To access the instance variables of the class",
+                    "explanation": "The 'self' parameter in Python class methods refers to the instance of the class and is used to access the instance variables."
+                },
+                {
+                    "question": "Which Python function is used to get the index of the maximum value in a list?",
+                    "options": [
+                        "index_max()",
+                        "max_index()",
+                        "get_max_index()",
+                        "find_max()"
+                    ],
+                    "correct_answer": "index_max()",
+                    "explanation": "The index() function in Python returns the index of the first occurrence of the specified value in the list."
+                },
+                {
+                    "question": "What is the purpose of the 'try-except' block in Python?",
+                    "options": [
+                        "To execute a block of code repeatedly for a specified number of times",
+                        "To catch and handle exceptions and errors in the code",
+                        "To skip a block of code if a certain condition is met",
+                        "To execute a block of code in a loop"
+                    ],
+                    "correct_answer": "To catch and handle exceptions and errors in the code",
+                    "explanation": "The 'try-except' block in Python is used to catch and handle exceptions and errors that may occur in the code."
+                }
+            ],
+            "created_by": "Madara Uchiha"
+        },
+        {
+            "quiz_id": "2",
+            "subject": "Programming language",
+            "topic": "python",
+            "questions": [
+                {
+                    "question": "What is the primary purpose of the 'if' statement in Python?",
+                    "options": [
+                        "It is used to loop through a list of items.",
+                        "It is used to define a function.",
+                        "It is used to make decisions based on conditions.",
+                        "It is used to print output to the console."
+                    ],
+                    "correct_answer": "It is used to make decisions based on conditions.",
+                    "explanation": "The 'if' statement in Python is used to execute a block of code if a certain condition is met."
+                },
+                {
+                    "question": "What is the syntax for commenting a single line in Python?",
+                    "options": [
+                        "# This is a comment",
+                        "/* This is a comment */",
+                        "// This is a comment",
+                        "/* This is a multi-line comment */"
+                    ],
+                    "correct_answer": "# This is a comment",
+                    "explanation": "In Python, a single line comment is created using the '#' symbol followed by the comment text."
+                },
+                {
+                    "question": "What is the purpose of the 'try-except' block in Python?",
+                    "options": [
+                        "To handle exceptions and errors that may occur during execution.",
+                        "To print output to the console.",
+                        "To loop through a list of items.",
+                        "To define a function."
+                    ],
+                    "correct_answer": "To handle exceptions and errors that may occur during execution.",
+                    "explanation": "The 'try-except' block in Python is used to catch and handle exceptions and errors that may occur during the execution of code."
+                },
+                {
+                    "question": "What is the syntax for creating a list in Python?",
+                    "options": [
+                        "['apple', 'banana', 'cherry']",
+                        "list('apple', 'banana', 'cherry')",
+                        "['apple; banana; cherry']",
+                        "list(apple, banana, cherry)"
+                    ],
+                    "correct_answer": "['apple', 'banana', 'cherry']",
+                    "explanation": "In Python, a list is created using square brackets '[]' and comma-separated items."
+                },
+                {
+                    "question": "What is the purpose of the 'print()' function in Python?",
+                    "options": [
+                        "To create a new variable.",
+                        "To make decisions based on conditions.",
+                        "To print output to the console.",
+                        "To loop through a list of items."
+                    ],
+                    "correct_answer": "To print output to the console.",
+                    "explanation": "The 'print()' function in Python is used to print output to the console."
+                }
+            ],
+            "created_by": "Madara Uchiha"
+        }
+    ]
+}

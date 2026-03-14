@@ -1,0 +1,16 @@
+{
+    "stu_imran": {
+        "scores": [
+            20.0,
+            100.0,
+            60.0,
+            20.0
+        ],
+        "weak_topics": [
+            "What is the primary purpose of the 'if' statement in Python?",
+            "What is the syntax for commenting a single line in Python?",
+            "What is the syntax for creating a list in Python?",
+            "What is the purpose of the 'print()' function in Python?"
+        ]
+    }
+}

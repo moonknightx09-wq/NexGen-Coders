@@ -1,0 +1,40 @@
+{
+    "stu_imran": {
+        "name": "Imran Farhat",
+        "password": "123",
+        "role": "Student"
+    },
+    "teach_madara": {
+        "name": "Madara Uchiha",
+        "password": "123",
+        "role": "Teacher"
+    },
+    "par_a": {
+        "name": "Parent A",
+        "password": "123",
+        "role": "Parent",
+        "child": "stu_imran"
+    },
+    "stu_sahid": {
+        "name": "Sahid Alam Ansari",
+        "password": "123",
+        "role": "Student"
+    },
+    "par_b": {
+        "name": "parent B",
+        "password": "123",
+        "role": "Parent",
+        "child": "stu_sahid"
+    },
+    "stu_manthun": {
+        "name": "Mathun Singla",
+        "password": "123",
+        "role": "Student"
+    },
+    "par_c": {
+        "name": "Parent C",
+        "password": "123",
+        "role": "Parent",
+        "child": "stu_manthun"
+    }
+}
